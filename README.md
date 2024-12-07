@@ -4,14 +4,6 @@
 
 ---
 
-### 🔥 **What I Do**  
-- **High-Performance Systems:** Built **MercuryTrade**, a lightning-fast trading platform capable of processing over **1M orders/sec** with sub-50µs latency.  
-- **Systems Engineering:** Engineered **CoreLite-OS**, a Rust-based lightweight kernel with optimized memory management and <20ms boot time.  
-- **Diagnostic Tools:** Developed **Scrap-Sage**, a cross-platform memory snapshot tool, improving efficiency by 30%.  
-- **Full-Stack Development:** Experienced in building scalable platforms and real-time communication systems using **React.js**, **Node.js**, and **MongoDB**.
-
----
-
 ### 🛠 **Tech Toolbox**  
 **Languages:** C++, Rust, Python, Java, JavaScript, MySQL  
 **Frameworks:** React.js, Node.js, Express.js  
