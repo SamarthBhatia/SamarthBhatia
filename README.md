@@ -1,6 +1,3 @@
-Here’s an appealing GitHub profile description for you, tailored based on your impressive resume:
-
----
 
 ### 👋 Hi, I’m **Samarth Bhatia**  
 🚀 A passionate **Software Engineer** and **Open-Source Enthusiast**, currently pursuing my Master's in **Computer Science and Engineering** at **Politecnico di Milano**. With a strong foundation in **C++**, **Rust**, and **JavaScript**, I specialize in developing high-performance systems and innovative solutions to complex challenges.  
