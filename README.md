@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SamarthBhatia/SamarthBhatia/main/Frustrated%20Customer%20Service%20GIF.gif" alt="GitHub Banner GIF" width="100%">
+  <img src="https://raw.githubusercontent.com/SamarthBhatia/SamarthBhatia/main/Frustrated%20Customer%20Service%20GIF.gif" alt="GitHub Banner GIF" width="100%" height="500px">
 </p>
+
 
 
 ### 👋 Hi, I’m **Samarth Bhatia**  
