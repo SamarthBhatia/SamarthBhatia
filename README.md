@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamarthBhatia/SamarthBhatia/main/Frustrated%20Customer%20Service%20GIF.gif" alt="GitHub Banner GIF" width="100%">
+</p>
+
 
 ### 👋 Hi, I’m **Samarth Bhatia**  
 🚀 A passionate **Software Engineer** and **Open-Source Enthusiast**, currently pursuing my Master's in **Computer Science and Engineering** at **Politecnico di Milano**. With a strong foundation in **C++**, **Rust**, and **JavaScript**, I specialize in developing high-performance systems and innovative solutions to complex challenges.  
