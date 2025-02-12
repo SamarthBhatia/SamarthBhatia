@@ -25,7 +25,7 @@
 ---
 
 ### 📬 **Let’s Connect!**  
-🌐 **Portfolio:** [samarth-bhatia-github-io.vercel.app](https://samarth-bhatia-github-io.vercel.app)  
+🌐 **Portfolio:** [https://samarthbhatia.github.io/my-portfolio/](https://samarthbhatia.github.io/my-portfolio/)  
 💼 **LinkedIn:** [linkedin.com/in/samarthbhatia89](https://linkedin.com/in/samarthbhatia89)  
 📧 **Email:** samarth.bhatia@mail.polimi.it | samarthbhatia700@gmail.com  
 💻 **GitHub:** [github.com/SamarthBhatia](https://github.com/SamarthBhatia)  
