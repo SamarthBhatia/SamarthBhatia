@@ -34,4 +34,3 @@
 
 ✨ _"Turning ideas into efficient and scalable code."_  
 
-Feel free to tweak it to your liking! 😊
